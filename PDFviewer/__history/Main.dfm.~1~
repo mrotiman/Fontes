@@ -1,0 +1,42 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  ClientHeight = 469
+  ClientWidth = 897
+  Caption = 
+    'Unigui PDF Viewer (No plug-ins, do not need to install the PDF c' +
+    'lient, support for multiple languages)'
+  Color = clBtnFace
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  OnCreate = UniFormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniTreeView1: TUniTreeView
+    Left = 0
+    Top = 0
+    Width = 177
+    Height = 469
+    Items.FontData = {0100000000}
+    Align = alLeft
+    Anchors = [akLeft, akTop, akBottom]
+    TabOrder = 0
+    OnChange = UniTreeView1Change
+    ExplicitHeight = 420
+  end
+  object UniURLFrame1: TUniURLFrame
+    Left = 177
+    Top = 0
+    Width = 720
+    Height = 469
+    Align = alClient
+    Anchors = [akLeft, akTop, akRight, akBottom]
+    TabOrder = 1
+    ParentColor = False
+    Color = clBtnFace
+    ExplicitLeft = 328
+    ExplicitTop = 72
+    ExplicitWidth = 320
+    ExplicitHeight = 240
+  end
+end

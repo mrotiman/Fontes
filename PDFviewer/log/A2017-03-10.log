@@ -1,0 +1,20 @@
+UniguiPDFViewe.exe: 00001340: 08:19:38 [TUniServerModule]:Server First Init.
+UniguiPDFViewe.exe: 00001340: 08:19:38 [TUniServerModule]:Erasing Cache Folder...
+UniguiPDFViewe.exe: 00001340: 08:19:38 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+UniguiPDFViewe.exe: 00001340: 08:19:38 [TUniServerModule]:Starting HTTP Server...
+UniguiPDFViewe.exe: 00001340: 08:19:38 [TUniServerModule]:HTTP Server Started. Port: 8077
+UniguiPDFViewe.exe: 00001340: 08:20:46 [TUniServerModule]:Shutting Down Server.
+UniguiPDFViewe.exe: 00005B64: 08:20:46 [Indy]:EIdNotConnected : Not Connected : Addr: $00665D0A
+UniguiPDFViewe.exe: 00005ECC: 08:20:46 [Indy]:EIdNotConnected : Not Connected : Addr: $00665D0A
+UniguiPDFViewe.exe: 000053C8: 08:20:46 [Indy]:EIdNotConnected : Not Connected : Addr: $00665D0A
+UniguiPDFViewe.exe: 00005644: 08:20:46 [Indy]:EIdNotConnected : Not Connected : Addr: $00665D0A
+UniguiPDFViewe.exe: 00004C70: 08:20:46 [Indy]:EIdNotConnected : Not Connected : Addr: $00665D0A
+UniguiPDFViewe.exe: 00005414: 08:20:46 [Indy]:EIdNotConnected : Not Connected : Addr: $00665D0A
+UniguiPDFViewe.exe: 00001340: 08:20:47 [TUniServerModule]:HTTP Server Stopped.
+UniguiPDFViewe.exe: 00001340: 08:20:47 [TUniGUISessionManager]:Terminating Session manager.
+UniguiPDFViewe.exe: 00001340: 08:20:47 [TUniGUISessionManager]:Stopping Cache Eraser...
+UniguiPDFViewe.exe: 00001340: 08:20:47 [TUniGUISessionManager]:Cache Eraser Stopped.
+UniguiPDFViewe.exe: 00001340: 08:20:47 [TUniGUISessionManager]:Destroying Worker Threads.
+UniguiPDFViewe.exe: 00001340: 08:20:47 [TUniGUISessionManager]:Session manager terminated.
+UniguiPDFViewe.exe: 00001340: 08:20:47 [TUniServerModule]:Server Shutdown Completed.
+UniguiPDFViewe.exe: 00001340: 08:20:47 [Terminated]:Exit Code: 0
