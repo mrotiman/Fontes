@@ -81,7 +81,7 @@ object frmcarteira: Tfrmcarteira
     OnDblClick = dbgMembroDblClick
   end
   object btnEnviar: TButton
-    Left = 155
+    Left = 358
     Top = 111
     Width = 75
     Height = 25
@@ -163,7 +163,6 @@ object frmcarteira: Tfrmcarteira
     DataPipeline = ppDBPipeline1
     PrinterSetup.BinName = 'Default'
     PrinterSetup.DocumentName = 'Report'
-    PrinterSetup.Duplex = dpNone
     PrinterSetup.PaperName = 'A4'
     PrinterSetup.PrinterName = 'Default'
     PrinterSetup.SaveDeviceSettings = False
@@ -194,12 +193,8 @@ object frmcarteira: Tfrmcarteira
     PDFSettings.EncryptSettings.AllowInteract = True
     PDFSettings.EncryptSettings.AllowModify = True
     PDFSettings.EncryptSettings.AllowPrint = True
-    PDFSettings.EncryptSettings.AllowExtract = True
-    PDFSettings.EncryptSettings.AllowAssemble = True
-    PDFSettings.EncryptSettings.AllowQualityPrint = True
     PDFSettings.EncryptSettings.Enabled = False
     PDFSettings.EncryptSettings.KeyLength = kl40Bit
-    PDFSettings.EncryptSettings.EncryptionType = etRC4
     PDFSettings.FontEncoding = feAnsi
     PDFSettings.ImageCompressionLevel = 25
     RTFSettings.DefaultFont.Charset = DEFAULT_CHARSET
@@ -214,10 +209,9 @@ object frmcarteira: Tfrmcarteira
     XLSSettings.Author = 'ReportBuilder'
     XLSSettings.Subject = 'Report'
     XLSSettings.Title = 'Report'
-    XLSSettings.WorksheetName = 'Report'
     Left = 672
     Top = 200
-    Version = '17.02'
+    Version = '16.02'
     mmColumnWidth = 0
     DataPipelineName = 'ppDBPipeline1'
     object ppHeaderBand1: TppHeaderBand
@@ -19292,6 +19286,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 9
         Font.Style = [fsBold, fsItalic]
+        FormField = False
         Transparent = True
         mmHeight = 3969
         mmLeft = 46046
@@ -19309,6 +19304,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 10
         Font.Style = [fsBold, fsItalic]
+        FormField = False
         Transparent = True
         mmHeight = 4233
         mmLeft = 41818
@@ -19326,6 +19322,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 7
         Font.Style = []
+        FormField = False
         TextAlignment = taCentered
         Transparent = True
         mmHeight = 3175
@@ -19344,6 +19341,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 7
         Font.Style = []
+        FormField = False
         TextAlignment = taCentered
         Transparent = True
         mmHeight = 3175
@@ -19362,6 +19360,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 7
         Font.Style = []
+        FormField = False
         TextAlignment = taCentered
         Transparent = True
         mmHeight = 3175
@@ -19380,6 +19379,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 11
         Font.Style = [fsBold]
+        FormField = False
         Transparent = True
         mmHeight = 4763
         mmLeft = 32290
@@ -19397,6 +19397,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 8
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3704
         mmLeft = 25934
@@ -19414,6 +19415,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 8
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3704
         mmLeft = 26198
@@ -19431,6 +19433,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 8
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3704
         mmLeft = 53978
@@ -19448,6 +19451,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 8
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3704
         mmLeft = 79377
@@ -19503,6 +19507,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 8
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3704
         mmLeft = 26198
@@ -19539,6 +19544,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 8
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3704
         mmLeft = 121442
@@ -19556,6 +19562,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 9
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3969
         mmLeft = 120913
@@ -19573,6 +19580,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 8
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3705
         mmLeft = 98423
@@ -19628,6 +19636,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 8
         Font.Style = []
+        FormField = False
         Transparent = True
         mmHeight = 3704
         mmLeft = 98688
@@ -19665,6 +19674,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 7
         Font.Style = []
+        FormField = False
         TextAlignment = taCentered
         Transparent = True
         mmHeight = 3175
@@ -41029,6 +41039,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 10
         Font.Style = [fsBold]
+        FormField = False
         Transparent = True
         mmHeight = 4234
         mmLeft = 116674
@@ -41046,6 +41057,7 @@ object frmcarteira: Tfrmcarteira
         Font.Name = 'Arial'
         Font.Size = 10
         Font.Style = [fsBold]
+        FormField = False
         Transparent = True
         mmHeight = 4234
         mmLeft = 131249
@@ -41167,11 +41179,13 @@ object frmcarteira: Tfrmcarteira
   object cdsNucleo: TClientDataSet
     Aggregates = <>
     Params = <>
-    Left = 160
+    Left = 304
+    Top = 176
   end
   object dsNucleo: TDataSource
     DataSet = cdsNucleo
-    Left = 216
+    Left = 368
+    Top = 176
   end
   object cdsConsulta: TClientDataSet
     Aggregates = <>
