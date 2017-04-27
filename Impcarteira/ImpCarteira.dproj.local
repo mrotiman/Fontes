@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/01 09:45:05.000.374,=C:\Users\Guimaraes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/01 20:04:38.000.071,C:\Users\Guimaraes\Documents\Embarcadero\Studio\Projects\SagaePlus\fImpCarteira.pas=C:\Users\Guimaraes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/01 20:04:38.000.071,C:\Users\Guimaraes\Documents\Embarcadero\Studio\Projects\SagaePlus\fImpCarteira.dfm=C:\Users\Guimaraes\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/06/01 20:05:23.000.809,C:\Users\Guimaraes\Documents\Embarcadero\Studio\Projects\SagaePlus\ImpCarteira.dproj=C:\Users\Guimaraes\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/08/31 22:55:47.000.877,=C:\Users\Guimaraes\Documents\Embarcadero\Studio\Projects\SagaePlus\uDmSge.pas</Transaction>
+  </Transactions>
+</BorlandProject>
