@@ -1,0 +1,19 @@
+clientAligment.exe: 00005F54: 08:15:43 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00005F54: 08:15:43 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00005F54: 08:15:43 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+clientAligment.exe: 00005F54: 08:15:43 [TUniServerModule]:Starting HTTP Server...
+clientAligment.exe: 00005F54: 08:15:43 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00005F54: 08:16:40 [TUniServerModule]:Shutting Down Server.
+clientAligment.exe: 00005B68: 08:16:41 [Indy]:EIdNotConnected : Not Connected : Addr: $006522D6
+clientAligment.exe: 00002DB8: 08:16:41 [Indy]:EIdNotConnected : Not Connected : Addr: $006522D6
+clientAligment.exe: 00004FF4: 08:16:41 [Indy]:EIdNotConnected : Not Connected : Addr: $006522D6
+clientAligment.exe: 00005DDC: 08:16:41 [Indy]:EIdNotConnected : Not Connected : Addr: $006522D6
+clientAligment.exe: 000059A8: 08:16:41 [Indy]:EIdNotConnected : Not Connected : Addr: $006522D6
+clientAligment.exe: 00005F54: 08:16:41 [TUniServerModule]:HTTP Server Stopped.
+clientAligment.exe: 00005F54: 08:16:41 [TUniGUISessionManager]:Terminating Session manager.
+clientAligment.exe: 00005F54: 08:16:41 [TUniGUISessionManager]:Stopping Cache Eraser...
+clientAligment.exe: 00005F54: 08:16:41 [TUniGUISessionManager]:Cache Eraser Stopped.
+clientAligment.exe: 00005F54: 08:16:41 [TUniGUISessionManager]:Destroying Worker Threads.
+clientAligment.exe: 00005F54: 08:16:41 [TUniGUISessionManager]:Session manager terminated.
+clientAligment.exe: 00005F54: 08:16:41 [TUniServerModule]:Server Shutdown Completed.
+clientAligment.exe: 00005F54: 08:16:41 [Terminated]:Exit Code: 0

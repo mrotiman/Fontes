@@ -1,0 +1,489 @@
+clientAligment.exe: 000011C0: 16:30:34 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000011C0: 16:30:34 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000011C0: 16:30:34 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000011C0: 16:30:34 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000008A4: 16:35:03 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000008A4: 16:35:03 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000008A4: 16:35:03 [TUniServerModule]:Cache Folder Erased. <42> Files deleted.
+clientAligment.exe: 000008A4: 16:35:03 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000022A4: 16:35:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000590: 16:35:50 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000590: 16:35:50 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000590: 16:35:50 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00000590: 16:35:50 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000021A0: 16:35:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001FC4: 16:43:45 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001FC4: 16:43:45 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001FC4: 16:43:45 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001FC4: 16:43:45 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001A74: 16:43:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001F98: 16:44:44 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001F98: 16:44:44 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001F98: 16:44:44 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001F98: 16:44:44 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001410: 16:44:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000016A4: 16:45:39 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000016A4: 16:45:39 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000016A4: 16:45:39 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000016A4: 16:45:39 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000022FC: 16:45:41 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002390: 16:46:39 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002390: 16:46:39 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002390: 16:46:39 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00002390: 16:46:39 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001568: 16:46:40 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000023A4: 16:47:23 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000023A4: 16:47:23 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000023A4: 16:47:23 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000023A4: 16:47:23 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001570: 16:47:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000013A8: 16:47:50 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000013A8: 16:47:50 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000013A8: 16:47:50 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000013A8: 16:47:50 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000213C: 16:47:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000FF4: 16:52:41 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000FF4: 16:52:41 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000FF4: 16:52:41 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00000FF4: 16:52:42 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002258: 16:52:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001D20: 16:54:05 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001D20: 16:54:05 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001D20: 16:54:05 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001D20: 16:54:05 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000B60: 16:54:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002138: 16:54:40 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002138: 16:54:40 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002138: 16:54:40 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00002138: 16:54:40 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000204C: 16:54:41 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001544: 16:57:10 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001544: 16:57:10 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001544: 16:57:10 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001544: 16:57:10 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000232C: 16:57:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000010F0: 17:00:13 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000010F0: 17:00:13 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000010F0: 17:00:13 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000010F0: 17:00:13 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001380: 17:00:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001C58: 17:00:30 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001C58: 17:00:30 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001C58: 17:00:30 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001C58: 17:00:30 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001424: 17:00:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001B44: 17:02:27 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001B44: 17:02:27 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001B44: 17:02:27 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001B44: 17:02:28 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000008F8: 17:03:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001068: 17:03:41 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001068: 17:03:41 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001068: 17:03:41 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001068: 17:03:41 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002314: 17:03:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000022BC: 17:04:08 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000022BC: 17:04:08 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000022BC: 17:04:08 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000022BC: 17:04:08 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000008A0: 17:04:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000016FC: 17:09:44 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000016FC: 17:09:44 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000016FC: 17:09:44 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000016FC: 17:09:44 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000F4C: 17:09:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000C30: 17:10:34 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000C30: 17:10:34 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000C30: 17:10:34 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00000C30: 17:10:34 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000129C: 17:10:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000007B0: 17:13:32 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000007B0: 17:13:32 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000007B0: 17:13:32 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000007B0: 17:13:32 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000A48: 17:13:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000021E4: 17:14:06 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000021E4: 17:14:06 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000021E4: 17:14:06 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000021E4: 17:14:06 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000B68: 17:14:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000B38: 17:20:34 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000B38: 17:20:34 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000B38: 17:20:34 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00000B38: 17:20:34 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000214C: 17:20:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002300: 17:22:47 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002300: 17:22:47 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002300: 17:22:47 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00002300: 17:22:47 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002270: 17:22:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002044: 17:24:15 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002044: 17:24:15 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002044: 17:24:15 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00002044: 17:24:15 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000022F0: 17:24:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000012A0: 17:24:43 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000012A0: 17:24:43 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000012A0: 17:24:43 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000012A0: 17:24:43 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000222C: 17:24:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000E4C: 17:25:19 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000E4C: 17:25:19 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000E4C: 17:25:19 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00000E4C: 17:25:19 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001A80: 17:25:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002374: 17:25:34 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002374: 17:25:34 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002374: 17:25:34 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00002374: 17:25:34 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000AF0: 17:25:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000FAC: 17:25:58 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000FAC: 17:25:58 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000FAC: 17:25:58 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00000FAC: 17:25:58 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001B28: 17:26:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000780: 17:26:14 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000780: 17:26:14 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000780: 17:26:14 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00000780: 17:26:14 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001EF4: 17:26:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001790: 17:26:29 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001790: 17:26:29 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001790: 17:26:29 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001790: 17:26:29 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000144C: 17:26:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002040: 17:27:40 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002040: 17:27:40 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002040: 17:27:40 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00002040: 17:27:40 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002328: 17:27:41 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000020FC: 17:28:34 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000020FC: 17:28:34 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000020FC: 17:28:34 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 000020FC: 17:28:34 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000F98: 17:28:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000AF0: 17:29:13 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000AF0: 17:29:13 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000AF0: 17:29:13 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00000AF0: 17:29:13 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002228: 17:29:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002220: 17:29:29 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002220: 17:29:29 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002220: 17:29:29 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00002220: 17:29:29 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000013DC: 17:29:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001A1C: 17:39:12 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001A1C: 17:39:12 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001A1C: 17:39:12 [TUniServerModule]:Cache Folder Erased. <28> Files deleted.
+clientAligment.exe: 00001A1C: 17:39:12 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000011F4: 17:39:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001B40: 17:39:47 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001B40: 17:39:47 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001B40: 17:39:47 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00001B40: 17:39:47 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001A30: 17:39:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001BD8: 17:44:16 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001BD8: 17:44:16 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001BD8: 17:44:16 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00001BD8: 17:44:16 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000011F0: 17:44:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000022E8: 17:45:30 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000022E8: 17:45:30 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000022E8: 17:45:30 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 000022E8: 17:45:30 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000484: 17:45:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000A08: 17:46:08 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000A08: 17:46:08 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000A08: 17:46:08 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00000A08: 17:46:08 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001284: 17:46:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000023C0: 17:46:26 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000023C0: 17:46:26 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000023C0: 17:46:26 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 000023C0: 17:46:26 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001538: 17:46:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000CBC: 17:46:55 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000CBC: 17:46:55 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000CBC: 17:46:55 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00000CBC: 17:46:55 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000868: 17:46:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000F90: 17:56:21 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000F90: 17:56:21 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000F90: 17:56:21 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00000F90: 17:56:21 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000021C4: 17:56:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000013B8: 17:58:13 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000013B8: 17:58:13 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000013B8: 17:58:13 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 000013B8: 17:58:13 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000598: 17:58:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000016D4: 17:58:54 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000016D4: 17:58:54 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000016D4: 17:58:54 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 000016D4: 17:58:54 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000007A0: 17:58:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000020D4: 17:59:20 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000020D4: 17:59:20 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000020D4: 17:59:20 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 000020D4: 17:59:20 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000868: 17:59:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001674: 18:01:20 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001674: 18:01:20 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001674: 18:01:20 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00001674: 18:01:20 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001B6C: 18:01:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001554: 18:01:47 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001554: 18:01:47 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001554: 18:01:47 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00001554: 18:01:47 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001090: 18:01:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002334: 18:02:42 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002334: 18:02:42 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002334: 18:02:42 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00002334: 18:02:42 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001AF4: 18:02:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000013BC: 18:03:19 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000013BC: 18:03:19 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000013BC: 18:03:19 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 000013BC: 18:03:19 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001940: 18:03:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 0000156C: 18:05:46 [TUniServerModule]:Server First Init.
+clientAligment.exe: 0000156C: 18:05:46 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 0000156C: 18:05:46 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 0000156C: 18:05:46 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000155C: 18:05:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001F44: 18:07:01 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001F44: 18:07:01 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001F44: 18:07:01 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00001F44: 18:07:01 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001C74: 18:07:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001D14: 18:07:27 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001D14: 18:07:27 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001D14: 18:07:27 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00001D14: 18:07:28 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001188: 18:07:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000011F4: 18:07:47 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000011F4: 18:07:47 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000011F4: 18:07:47 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 000011F4: 18:07:47 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002340: 18:07:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001B34: 18:08:50 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001B34: 18:08:50 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001B34: 18:08:50 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00001B34: 18:08:50 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000F48: 18:08:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 0000203C: 18:09:16 [TUniServerModule]:Server First Init.
+clientAligment.exe: 0000203C: 18:09:16 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 0000203C: 18:09:16 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 0000203C: 18:09:16 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000007D0: 18:09:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000B2C: 18:09:44 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000B2C: 18:09:44 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000B2C: 18:09:44 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00000B2C: 18:09:44 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001C70: 18:09:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000EA8: 18:11:02 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000EA8: 18:11:02 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000EA8: 18:11:02 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 00000EA8: 18:11:02 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000EBC: 18:11:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000006D4: 18:16:11 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000006D4: 18:16:11 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000006D4: 18:16:11 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+clientAligment.exe: 000006D4: 18:16:11 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001258: 18:16:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000F8C: 18:17:00 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000F8C: 18:17:00 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000F8C: 18:17:00 [TUniServerModule]:Cache Folder Erased. <32> Files deleted.
+clientAligment.exe: 00000F8C: 18:17:00 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000868: 18:17:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001F18: 18:25:23 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001F18: 18:25:23 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001F18: 18:25:23 [TUniServerModule]:Cache Folder Erased. <32> Files deleted.
+clientAligment.exe: 00001F18: 18:25:23 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000118: 18:25:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000AEC: 18:27:32 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000AEC: 18:27:32 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000AEC: 18:27:32 [TUniServerModule]:Cache Folder Erased. <32> Files deleted.
+clientAligment.exe: 00000AEC: 18:27:32 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000108C: 18:27:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001064: 18:28:48 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001064: 18:28:48 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001064: 18:28:48 [TUniServerModule]:Cache Folder Erased. <32> Files deleted.
+clientAligment.exe: 00001064: 18:28:48 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000B60: 18:28:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002268: 18:33:38 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002268: 18:33:38 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002268: 18:33:38 [TUniServerModule]:Cache Folder Erased. <32> Files deleted.
+clientAligment.exe: 00002268: 18:33:38 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001AE4: 18:33:40 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000A48: 18:35:54 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000A48: 18:35:54 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000A48: 18:35:54 [TUniServerModule]:Cache Folder Erased. <34> Files deleted.
+clientAligment.exe: 00000A48: 18:35:54 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001B3C: 18:35:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000020CC: 18:36:15 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000020CC: 18:36:15 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000020CC: 18:36:15 [TUniServerModule]:Cache Folder Erased. <35> Files deleted.
+clientAligment.exe: 000020CC: 18:36:15 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000012EC: 18:36:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002128: 18:37:17 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002128: 18:37:17 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002128: 18:37:17 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00002128: 18:37:17 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000007AC: 18:37:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000003F8: 18:38:05 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000003F8: 18:38:05 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000003F8: 18:38:05 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000003F8: 18:38:05 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001358: 18:38:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001834: 18:38:30 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001834: 18:38:30 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001834: 18:38:30 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00001834: 18:38:30 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001488: 18:38:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000016CC: 18:43:04 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000016CC: 18:43:04 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000016CC: 18:43:04 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000016CC: 18:43:04 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001CD0: 18:43:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000600: 18:43:58 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000600: 18:43:58 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000600: 18:43:58 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00000600: 18:43:58 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000180C: 18:44:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000022C0: 18:44:54 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000022C0: 18:44:54 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000022C0: 18:44:54 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000022C0: 18:44:54 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000017C4: 18:44:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000022E0: 18:45:22 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000022E0: 18:45:22 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000022E0: 18:45:22 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000022E0: 18:45:22 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000023A0: 18:45:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002118: 18:46:23 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002118: 18:46:23 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002118: 18:46:23 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00002118: 18:46:23 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001CC0: 18:46:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000C9C: 18:47:04 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000C9C: 18:47:04 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000C9C: 18:47:04 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00000C9C: 18:47:04 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002108: 18:47:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 0000118C: 18:48:32 [TUniServerModule]:Server First Init.
+clientAligment.exe: 0000118C: 18:48:32 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 0000118C: 18:48:32 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 0000118C: 18:48:32 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001358: 18:48:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001794: 18:49:07 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001794: 18:49:07 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001794: 18:49:07 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00001794: 18:49:07 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000013DC: 18:49:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 0000228C: 18:50:53 [TUniServerModule]:Server First Init.
+clientAligment.exe: 0000228C: 18:50:53 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 0000228C: 18:50:53 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 0000228C: 18:50:53 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000530: 18:50:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001E18: 18:51:27 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001E18: 18:51:27 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001E18: 18:51:27 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00001E18: 18:51:27 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000022E4: 18:51:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000021B4: 18:52:38 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000021B4: 18:52:38 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000021B4: 18:52:38 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000021B4: 18:52:38 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000004B4: 18:52:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000C88: 18:53:26 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000C88: 18:53:26 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000C88: 18:53:26 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00000C88: 18:53:26 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002114: 18:53:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000011E4: 18:53:50 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000011E4: 18:53:50 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000011E4: 18:53:50 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000011E4: 18:53:51 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000018C4: 18:54:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002210: 18:59:38 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002210: 18:59:38 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002210: 18:59:38 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00002210: 18:59:38 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00001038: 18:59:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 0000155C: 19:00:01 [TUniServerModule]:Server First Init.
+clientAligment.exe: 0000155C: 19:00:01 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 0000155C: 19:00:01 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 0000155C: 19:00:02 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000007E8: 19:00:02 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000018C0: 19:05:02 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000018C0: 19:05:02 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000018C0: 19:05:02 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000018C0: 19:05:02 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000B68: 19:05:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000024E8: 19:06:40 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000024E8: 19:06:40 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000024E8: 19:06:40 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000024E8: 19:06:40 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002518: 19:06:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002650: 19:07:09 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002650: 19:07:09 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002650: 19:07:09 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00002650: 19:07:09 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002678: 19:07:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 0000252C: 19:08:40 [TUniServerModule]:Server First Init.
+clientAligment.exe: 0000252C: 19:08:40 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 0000252C: 19:08:40 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 0000252C: 19:08:40 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002588: 19:09:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001924: 19:09:24 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001924: 19:09:24 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001924: 19:09:24 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00001924: 19:09:24 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002420: 19:09:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000003CC: 19:09:42 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000003CC: 19:09:42 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000003CC: 19:09:42 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000003CC: 19:09:42 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000998: 19:09:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001358: 19:10:02 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001358: 19:10:02 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001358: 19:10:02 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00001358: 19:10:02 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002340: 19:10:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002638: 19:10:35 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002638: 19:10:35 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002638: 19:10:35 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00002638: 19:10:35 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000025FC: 19:10:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00001284: 19:11:10 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00001284: 19:11:10 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00001284: 19:11:10 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00001284: 19:11:10 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000004B4: 19:11:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00000B68: 19:11:51 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00000B68: 19:11:51 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00000B68: 19:11:51 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00000B68: 19:11:51 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000018C8: 19:11:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000021D8: 19:13:33 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000021D8: 19:13:33 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000021D8: 19:13:33 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000021D8: 19:13:33 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 000027C4: 19:13:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 000025CC: 19:13:57 [TUniServerModule]:Server First Init.
+clientAligment.exe: 000025CC: 19:13:57 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 000025CC: 19:13:57 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 000025CC: 19:13:58 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00002520: 19:14:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002428: 19:15:00 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002428: 19:15:00 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002428: 19:15:00 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00002428: 19:15:00 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 00000870: 19:15:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
+clientAligment.exe: 00002330: 19:16:35 [TUniServerModule]:Server First Init.
+clientAligment.exe: 00002330: 19:16:35 [TUniServerModule]:Erasing Cache Folder...
+clientAligment.exe: 00002330: 19:16:35 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+clientAligment.exe: 00002330: 19:16:35 [TUniServerModule]:HTTP Server Started. Port: 8077
+clientAligment.exe: 0000241C: 19:16:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00766223
